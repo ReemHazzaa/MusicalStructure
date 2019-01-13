@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <!-- String values for each Song object -->
+    <!-- 1st Song -->
+    <string name="first_song_name">Alive</string>
+    <string name="first_song_singer">Sia</string>
+    <string name="first_song_album">This is acting</string>
+
+    <!-- 2nd Song -->
+    <string name="second_song_name">Cheap Thrills</string>
+    <string name="second_song_singer">Sia</string>
+    <string name="secondt_song_album">This is acting</string>
+
+    <!-- 3rd Song -->
+    <string name="third_song_name">The Greatest</string>
+    <string name="third_song_singer">Sia</string>
+    <string name="third_song_album">This is acting</string>
+
+    <!-- 4th Song -->
+    <string name="fourth_song_name">Hello</string>
+    <string name="fourth_song_singer">Adele</string>
+    <string name="fourth_song_album">25</string>
+
+    <!-- 5th Song -->
+    <string name="fifth_song_name">Move Your Body</string>
+    <string name="fifth_song_singer">Sia</string>
+    <string name="fifth_song_album">This is acting</string>
+
+    <!-- 6th Song -->
+    <string name="sixth_song_name">When We Were Young</string>
+    <string name="sixth_song_singer">Adele</string>
+    <string name="sixth_song_album">25</string>
+
+    <!-- 7th Song -->
+    <string name="seventh_song_name">We don\'t talk anymore</string>
+    <string name="seventh_song_singer">Charlie Puth(feat. Selena Gomez)</string>
+    <string name="seventh_song_album">Single</string>
+
+    <!-- 8th Song -->
+    <string name="eighth_song_name">FRIENDS</string>
+    <string name="eighth_song_singer">Marshmello &amp; Anne-Marie</string>
+    <string name="eighth_song_album">Single</string>
+
+    <!-- 9th Song -->
+    <string name="ninth_song_name">Nour El Ain</string>
+    <string name="ninth_song_singer">Amr Diab</string>
+    <string name="ninth_song_album">Single</string>
+
+    <!-- 10th Song -->
+    <string name="tenth_song_name">Bos Ala Al Halawa</string>
+    <string name="tenth_song_singer">Hegazy Metkal</string>
+    <string name="tenth_song_album">Single</string>
+
+    <!-- Navigation string value -->
+    <string name="loop">Loop</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="library">Music Library</string>
+
+    <!-- Activities labels-->
+    <string name="current_song_label">Now playing</string>
+    <string name="fav_songs_label">Favorites</string>
+    <string name="library_songs_label">Music library</string>
+</resources>
